@@ -1,0 +1,222 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe43220900027951910082559200000002711166421175">
+            <ide>
+                <cUF>43</cUF>
+                <cNF>16642118</cNF>
+                <natOp>Remessa de produção com fim específico de exportação</natOp>
+                <mod>55</mod>
+                <serie>920</serie>
+                <nNF>271</nNF>
+                <dhEmi>2022-09-26T14:03:35-03:00</dhEmi>
+                <dhSaiEnt>2022-09-26T14:03:35-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>4318804</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>4</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>1</indPres>
+                <indIntermed>0</indIntermed>
+                <procEmi>0</procEmi>
+                <verProc>1.0|NS_API</verProc>
+            </ide>
+            <emit>
+                <CPF>27951910082</CPF>
+                <xNome>LUIS ANTONIO ABREU DE MORAES JR.</xNome>
+                <xFant>Granja Barrancos</xFant>
+                <enderEmit>
+                    <xLgr>EST. BARRANCOS - 5º DISTRITO</xLgr>
+                    <nro>S/N</nro>
+                    <xBairro>INTERIOR</xBairro>
+                    <cMun>4318804</cMun>
+                    <xMun>São Lourenço do Sul</xMun>
+                    <UF>RS</UF>
+                    <CEP>96170000</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>53999965688</fone>
+                </enderEmit>
+                <IE>1251075565</IE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>60498706020930</CNPJ>
+                <xNome>CARGILL AGRICOLA S.A</xNome>
+                <enderDest>
+                    <xLgr>AV PRES VARGAS EMPRESA</xLgr>
+                    <nro>890</nro>
+                    <xBairro>VILA RODRIGUES</xBairro>
+                    <cMun>4314100</cMun>
+                    <xMun>Passo Fundo</xMun>
+                    <UF>RS</UF>
+                    <CEP>99070970</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>0910370567</IE>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>16715</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>ARROZ EM CASCA</xProd>
+                    <NCM>10061092</NCM>
+                    <cBenef>RS051504</cBenef>
+                    <CFOP>5501</CFOP>
+                    <uCom>KG</uCom>
+                    <qCom>32500.0</qCom>
+                    <vUnCom>1.72</vUnCom>
+                    <vProd>55900.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>KG</uTrib>
+                    <qTrib>32500.0</qTrib>
+                    <vUnTrib>1.72</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <vTotTrib>0.00</vTotTrib>
+                    <ICMS>
+                        <ICMS40>
+                            <orig>0</orig>
+                            <CST>41</CST>
+                        </ICMS40>
+                    </ICMS>
+                    <PIS>
+                        <PISOutr>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0.00</vBC>
+                    <vICMS>0.00</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>55900.00</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>55900.00</vNF>
+                    <vTotTrib>0.00</vTotTrib>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>0</modFrete>
+                <transporta>
+                    <CNPJ>07569161001200</CNPJ>
+                    <xNome>G10 TRANSPORTES</xNome>
+                    <IE>1000298180</IE>
+                    <xEnder>RODOVIA BR 392 KM 10, SN</xEnder>
+                    <xMun>Rio Grande</xMun>
+                    <UF>RS</UF>
+                </transporta>
+                <veicTransp>
+                    <placa>HNX1599</placa>
+                    <UF>RS</UF>
+                </veicTransp>
+                <vol>
+                    <qVol>35600</qVol>
+                    <pesoL>35600.000</pesoL>
+                    <pesoB>35600.000</pesoB>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>2823103</nFat>
+                    <vOrig>55399.50</vOrig>
+                    <vDesc>0.00</vDesc>
+                    <vLiq>55399.50</vLiq>
+                </fat>
+                <dup>
+                    <nDup>001</nDup>
+                    <dVenc>2022-09-26</dVenc>
+                    <vDup>55399.50</vDup>
+                </dup>
+            </cobr>
+            <pag>
+                <detPag>
+                    <tPag>99</tPag>
+                    <xPag>TRANSF. BANC�?RIA</xPag>
+                    <vPag>55399.50</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infCpl>Livro I, Art. 11, Inciso V Taxa CDO R$ 500,50 LOCAL DE DESCARGA: Mercadoria destinada ao armazém
+                    do TerminalGraneleiro S/A Av.Alm.MaximianoFonseca,5481No4 -Secção da Barra-Industrial-Rio Grande/RS
+                    CNPJ01785688/0001-25- IE100/0186900.Contrato. Conforme autorizado pelo Regime Especial- Ato
+                    Declaratório n° 2019/061.
+                </infCpl>
+            </infAdic>
+            <infRespTec>
+                <CNPJ>12602616000111</CNPJ>
+                <xContato>Marcelo Lagemann</xContato>
+                <email>marcelo@connectere.agr.br</email>
+                <fone>5331990289</fone>
+            </infRespTec>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="#NFe43220900027951910082559200000002711166421184">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>fxiuBMh0e3DwVuImhACqjNaMBx4=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                1bZXjVvE23vYCqmwurnZXsvx3Y8EQh3KdvdRv/vJPpQeV3sNgNHoOfgTcZ7d1tlyU/8sl2XH08+dVnebwzygey79u1XC8lWi5e/iNWiGaifK3ya54LlFMbLBvlewTVzQs8uNRQoos4Guq7o5Hmlm6O+5n94fSP4tSl8iVelFQm8VkZ5Df/Yk553SJvwOzQFVn9N8LnvAqRtPxojZPpxAmD0Wx3C1iilHZeakIO9Ejm7tqFRZ3TIBEO0KEhaF9xp/QEHvxoU2wdlQEW7gcfvd7xbky5ZRlnUcx2S0ZyTTwg1k7kUPNmVDLayl9FiggWfpsCvr8srJl4fSdHy4RRTR5w==
+            </SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        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
+                    </X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>RS202209230936</verAplic>
+            <chNFe>43220900027951910082559200000002711166421184</chNFe>
+            <dhRecbto>2022-09-26T14:03:36-03:00</dhRecbto>
+            <nProt>143220209193246</nProt>
+            <digVal>fxiuBMh0e3DwVuImhACqjNaMBx4=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>

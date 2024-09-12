@@ -1,0 +1,234 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+	<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+		<infNFe Id="NFe26230206057223028858553000000632731248477670" versao="4.00">
+			<ide>
+				<cUF>26</cUF>
+				<cNF>24847767</cNF>
+				<natOp>DEVOLUCAO DE COMPRA</natOp>
+				<mod>55</mod>
+				<serie>300</serie>
+				<nNF>63273</nNF>
+				<dhEmi>2023-02-08T16:43:15-03:00</dhEmi>
+				<dhSaiEnt>2023-02-08T16:43:15-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>2</idDest>
+				<cMunFG>2610707</cMunFG>
+				<tpImp>1</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>0</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>4</finNFe>
+				<indFinal>0</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>Triangulus6.0.78.217</verProc>
+				<NFref>
+					<refNFe>35221161067161001835550010004982841000076476</refNFe>
+				</NFref>
+			</ide>
+			<emit>
+				<CNPJ>06057223028858</CNPJ>
+				<xNome>SENDAS DISTRIBUIDORA DEP 911</xNome>
+				<xFant>SENDAS 911 CD PERNAMBUCO</xFant>
+				<enderEmit>
+					<xLgr>RODOVIA BR-101 NORTE</xLgr>
+					<nro>5800</nro>
+					<xCpl>Fundos</xCpl>
+					<xBairro>ARTUR LUNDGREN I</xBairro>
+					<cMun>2610707</cMun>
+					<xMun>PAULISTA</xMun>
+					<UF>PE</UF>
+					<CEP>53416710</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+				</enderEmit>
+				<IE>066423651</IE>
+				<IM>057787000</IM>
+				<CNAE>4711302</CNAE>
+				<CRT>3</CRT>
+			</emit>
+			<dest>
+				<CNPJ>61067161001835</CNPJ>
+				<xNome>NADIR FIGUEIREDO S A</xNome>
+				<enderDest>
+					<xLgr>AVENIDA NADIR DIAS DE FIGUEIREDO</xLgr>
+					<nro>496</nro>
+					<xBairro>JARDIM MIRIAM</xBairro>
+					<cMun>3552502</cMun>
+					<xMun>SUZANO</xMun>
+					<UF>SP</UF>
+					<CEP>08613370</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>11993160527</fone>
+				</enderDest>
+				<indIEDest>1</indIEDest>
+				<IE>672203108112</IE>
+				<email>devolucao@nadir.com.br</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>928</cProd>
+					<cEAN>7891155002420</cEAN>
+					<xProd>COPO NADIR AMERICANO 190ML R2010</xProd>
+					<NCM>70133700</NCM>
+					<CEST>1400200</CEST>
+					<CFOP>6202</CFOP>
+					<uCom>UN1</uCom>
+					<qCom>63744.0000</qCom>
+					<vUnCom>1.1205580000</vUnCom>
+					<vProd>71428.82</vProd>
+					<cEANTrib>7891155002420</cEANTrib>
+					<uTrib>UN1</uTrib>
+					<qTrib>63744.0000</qTrib>
+					<vUnTrib>1.1205580000</vUnTrib>
+					<indTot>1</indTot>
+					<xPed>0</xPed>
+					<nItemPed>0</nItemPed>
+				</prod>
+				<imposto>
+					<ICMS>
+						<ICMS00>
+							<orig>0</orig>
+							<CST>00</CST>
+							<modBC>3</modBC>
+							<vBC>71428.82</vBC>
+							<pICMS>7.0000</pICMS>
+							<vICMS>5000.08</vICMS>
+						</ICMS00>
+					</ICMS>
+					<IPI>
+						<cEnq>999</cEnq>
+						<IPITrib>
+							<CST>50</CST>
+							<vBC>71428.82</vBC>
+							<pIPI>9.7500</pIPI>
+							<vIPI>0.00</vIPI>
+						</IPITrib>
+					</IPI>
+					<II>
+						<vBC>1.12</vBC>
+						<vDespAdu>0.00</vDespAdu>
+						<vII>0.00</vII>
+						<vIOF>0.00</vIOF>
+					</II>
+					<PIS>
+						<PISAliq>
+							<CST>01</CST>
+							<vBC>78393.17</vBC>
+							<pPIS>1.6500</pPIS>
+							<vPIS>1293.53</vPIS>
+						</PISAliq>
+					</PIS>
+					<COFINS>
+						<COFINSAliq>
+							<CST>01</CST>
+							<vBC>78393.17</vBC>
+							<pCOFINS>7.6000</pCOFINS>
+							<vCOFINS>5957.83</vCOFINS>
+						</COFINSAliq>
+					</COFINS>
+				</imposto>
+				<impostoDevol>
+					<pDevol>66.40</pDevol>
+					<IPI>
+						<vIPIDevol>6964.35</vIPIDevol>
+					</IPI>
+				</impostoDevol>
+				<infAdProd>DEVOLUCAO DE COMPRARef. NF: 498284, Serie 1, de 25/11/2022</infAdProd>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>71428.82</vBC>
+					<vICMS>5000.08</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vFCP>0.00</vFCP>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vFCPST>0.00</vFCPST>
+					<vFCPSTRet>0.00</vFCPSTRet>
+					<vProd>71428.82</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vIPIDevol>6964.35</vIPIDevol>
+					<vPIS>1293.53</vPIS>
+					<vCOFINS>5957.83</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>78393.17</vNF>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>4</modFrete>
+				<vol>
+					<qVol>63744</qVol>
+					<pesoL>6374.400</pesoL>
+					<pesoB>6693.120</pesoB>
+				</vol>
+			</transp>
+			<cobr>
+				<fat>
+					<nFat>63273</nFat>
+					<vOrig>78393.17</vOrig>
+					<vDesc>0.00</vDesc>
+					<vLiq>78393.17</vLiq>
+				</fat>
+				<dup>
+					<nDup>001</nDup>
+					<dVenc>2023-02-23</dVenc>
+					<vDup>78393.17</vDup>
+				</dup>
+			</cobr>
+			<pag>
+				<detPag>
+					<indPag>1</indPag>
+					<tPag>90</tPag>
+					<vPag>0.00</vPag>
+				</detPag>
+			</pag>
+			<infAdic>
+				<infCpl>DEVOLUCAO DE COMPRA  Ref. NF: 498284, Serie 1, de 25/11/2022   Motivo: Avaria - Representante:   Voce pagou aproximadamente:       R$ 12707,19 tributos federais       R$ 12857,19 tributos estaduais       R$ 45864,44 pelos produtos/servicos       Fonte: IBPT/FECOMERCIO PE  5B780E</infCpl>
+			</infAdic>
+			<infRespTec>
+				<CNPJ>01471899000193</CNPJ>
+				<xContato>Thiago Taffi</xContato>
+				<email>triangulus@config.com.br</email>
+				<fone>1155018300</fone>
+			</infRespTec>
+		</infNFe>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+			<SignedInfo>
+				<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+				<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+				<Reference URI="#NFe26230206057223028858553000000632731248477670">
+					<Transforms>
+						<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+						<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+					</Transforms>
+					<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+					<DigestValue>t5YFXVMQ/hryLlvUtHNEDPAlOF4=</DigestValue>
+				</Reference>
+			</SignedInfo>
+			<SignatureValue>PrENUpzRdo24q2YC8D+xgFDPbDQEwuHQkmz51wzUM9NMh1M9abrv9kpG4dMbXe1/Qcly8+dbtlGla5hChwhb4oWPbY1MdESZ3gHTE/BEs0bHAnep1fLSK1xE3i97hBbBTBBQ4PNsacWhCikJUMGErJjK/V00SH5QC8ACORZqZOcYzbbaZMqhSEIYSJ9ZlnHB1MTXfV/ONXlM1/rdRoaZVu8OoddGvPvDs4W6wkTaJbnfIRswB/MxYJEvpJtEl7BFyZoASJf9LsPFGKdT3KlyAcvD74M/obaM5gMLWI4VjdK6zCQ9QKN98mCKiO1Z2hcYv1YuTdUyV2mZaizAQ8JIXA==</SignatureValue>
+			<KeyInfo>
+				<X509Data>
+					<X509Certificate>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</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</Signature>
+	</NFe>
+	<protNFe versao="4.00">
+		<infProt Id="NFe126230012349453">
+			<tpAmb>1</tpAmb>
+			<verAplic>NFEPE_P_1.35.0</verAplic>
+			<chNFe>26230206057223028858553000000632731248477670</chNFe>
+			<dhRecbto>2023-02-08T17:44:46-03:00</dhRecbto>
+			<nProt>126230012349453</nProt>
+			<digVal>t5YFXVMQ/hryLlvUtHNEDPAlOF4=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>
